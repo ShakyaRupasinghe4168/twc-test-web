@@ -33,7 +33,7 @@ The task is to build a very basic full-stack system with the following features:
 ![Login Page](/screenshots/Screenshot (600)n.png)
 *Login Page*
 
-![Welcome Page](/screenshots/welcome.png)
+![Welcome Page](/screenshots/Screenshot(601).png)
 *Welcome Page*
 
 ![Add New Contact Page](/screenshots/add_contact.png)
