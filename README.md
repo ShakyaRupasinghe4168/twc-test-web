@@ -1,36 +1,50 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# TWC Innovations Contact Portal by SHAKYA RUPASINGHE
+
+## Description
+This application serves as a contact portal for TWC Innovations. It provides functionalities for user authentication, registration, a welcome page, adding contacts, viewing and editing contacts, and deleting contacts. The application is built using React.js for the frontend and a basic REST API for the backend.
+
+## Technologies Used
+- React.js: Frontend library for building user interfaces.
+- Next.js or Vite: Used for creating a React App.
+- Tailwind CSS: Utility-first CSS framework for styling React components.
+- REST API: Basics of building a RESTful API for backend functionality.
+
+## Project Overview
+The task is to build a very basic full-stack system with the following features:
+
+1. **Login Page (/login):**
+   - Initial screen for user authentication.
+   - Users can log in with their credentials.
+
+2. **Welcome Page (/):**
+   - Greet users with a welcome message after successful login.
+   - Provide a button to add a new contact.
+
+3. **Add New Contact Page (/contacts/new):**
+   - Form for users to fill out and add a new contact.
+   - Upon submission, the contact is added to the database.
+
+4. **Show All Contacts Page (/contacts):**
+   - Display a list of all contacts in a table format.
+   - Users can view, edit, and delete contacts.
+   - Images associated with contacts are displayed on screens.
+
+## Screenshots
+![Login Page](/screenshots/login.png)
+*Login Page*
+
+![Welcome Page](/screenshots/welcome.png)
+*Welcome Page*
+
+![Add New Contact Page](/screenshots/add_contact.png)
+*Add New Contact Page*
+
+![Show All Contacts Page](/screenshots/show_contacts.png)
+*Show All Contacts Page*
 
 ## Getting Started
+1. Clone this repository to your local machine.
+2. Navigate to the project directory in your terminal.
+3. Install dependencies using npm or yarn:npm install
+4. Start the development server:npm run dev
 
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
