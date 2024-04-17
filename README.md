@@ -30,7 +30,7 @@ The task is to build a very basic full-stack system with the following features:
    - Images associated with contacts are displayed on screens.
 
 ## Screenshots
-![Login Page](/screenshots/login.png)
+![Login Page](/screenshots/Screenshot (600)n.png)
 *Login Page*
 
 ![Welcome Page](/screenshots/welcome.png)
