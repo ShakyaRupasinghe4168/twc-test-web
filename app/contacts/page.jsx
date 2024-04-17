@@ -138,7 +138,7 @@ const AddContactPage = () => {
         className={`absolute top-[320px] left-[50%]  transform -translate-x-2/4 overflow-clip ${showConfirmation ? "blur" : ""}`}
       >
         <table
-          className="text-[#083F46] text-[20px] rounded-[15px] "
+          className="text-[#083F46] text-[20px] rounded-[15px] w-[1300px] "
           style={{ backgroundColor: "white" }}
         >
           <thead>
@@ -148,7 +148,7 @@ const AddContactPage = () => {
                 style={{
                   width: "1900px",
                   paddingBottom: "25px",
-                  paddingRight: "55px",
+                  paddingRight: "45px",
                 }}
               >
                 Full Name
@@ -157,7 +157,7 @@ const AddContactPage = () => {
                 style={{
                   width: "550px",
                   paddingBottom: "25px",
-                  paddingRight: "55px",
+                  paddingRight: "25px",
                 }}
               >
                 Gender
@@ -166,7 +166,7 @@ const AddContactPage = () => {
                 style={{
                   width: "650px",
                   paddingBottom: "25px",
-                  paddingRight: "55px",
+                  paddingRight: "35px",
                 }}
               >
                 Email
@@ -182,9 +182,9 @@ const AddContactPage = () => {
               </th>
               <th
                 style={{
-                  width: "1800px",
+                  width: "800px",
                   paddingBottom: "25px",
-                  paddingRight: "55px",
+                 
                 }}
               ></th>
             </tr>
