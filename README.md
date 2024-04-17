@@ -33,13 +33,14 @@ The task is to build a very basic full-stack system with the following features:
 ![Login Page](/screenshots/Screenshot%20(600).png)
 *Login Page*
 
-![Welcome Page](/screenshots/Screenshot(601).png)
+![Register Page](/screenshots/Screenshot%20(601).png)
+*register Page*
+![Welcome Page](/screenshots/Screenshot%20(602).png)
 *Welcome Page*
-
-![Add New Contact Page](/screenshots/add_contact.png)
+![Add New Contact Page](/screenshots/Screenshot%20(603).png)
 *Add New Contact Page*
 
-![Show All Contacts Page](/screenshots/show_contacts.png)
+![Show All Contacts Page](/screenshots/Screenshot%20(605).png)
 *Show All Contacts Page*
 
 ## Getting Started
